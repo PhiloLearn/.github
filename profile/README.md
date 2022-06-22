@@ -7,6 +7,9 @@
 PhiloLern means love. Love to learn.
 
 
+### playlists: 
+<hr>
+
 palylist name | link | project
 -------------- | ------- | -----
 ساخت بات دیسکورد / make discord bot|[videos](https://www.youtube.com/watch?v=W5TR9KfX0bA&list=PLQNHe26WJklCHkbVa7fsFLinFk7nWoiYT) | [project](#)
