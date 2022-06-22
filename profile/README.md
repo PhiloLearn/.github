@@ -2,7 +2,7 @@
 #### A lovely learning
 
 
-[![philolearn](cover.jpg)](https://www.youtube.com/philolearn?sub_confirmation=1)
+[![philolearn](https://raw.githubusercontent.com/PhiloLearn/.github/main/profile/cover.jpg)](https://www.youtube.com/philolearn?sub_confirmation=1)
 
 PhiloLern means love. Love to learn.
 
