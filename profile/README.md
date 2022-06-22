@@ -1,8 +1,11 @@
-# [PhiloLearn](https://www.youtube.com/philolearn?sub_confirmation=1)
+# PhiloLearn
 
-## A lovely learning
+### A lovely learning
 
 PhiloLern means love. Love to learn.
+
+**[subscribe to our channel.](https://www.youtube.com/philolearn?sub_confirmation=1)**
+
 
 [![philolearn](https://raw.githubusercontent.com/PhiloLearn/.github/main/profile/cover.jpg)](https://www.youtube.com/philolearn?sub_confirmation=1)
 
@@ -21,3 +24,8 @@ palylist name | link | project
 وبلاگ ساده جنگو / a simple django blog | [videos](https://www.youtube.com/playlist?list=PLQNHe26WJklBZArCPyYk8KRPIY39zlant) | [project](#)
 PhiloLearn Tv / تلوزیون فیلولرن | [videos](https://www.youtube.com/playlist?list=PLQNHe26WJklDyQye13NtvDxFVhjRnrV2b) | -
 My experience of art of expression / تجربه من از فن بیان | [videos](https://www.youtube.com/playlist?list=PLQNHe26WJklCVvtCHNdOvk9KoROyb2L3G) | -
+
+
+## TODO:
+- [ ] **[subscribe to our channel.](https://www.youtube.com/philolearn?sub_confirmation=1)**
+
