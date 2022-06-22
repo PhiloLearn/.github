@@ -7,8 +7,7 @@
 PhiloLern means love. Love to learn.
 
 
-### playlists: 
-<hr>
+## playlists: 
 
 palylist name | link | project
 -------------- | ------- | -----
