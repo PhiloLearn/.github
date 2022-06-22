@@ -27,5 +27,5 @@ My experience of art of expression / تجربه من از فن بیان | [video
 
 
 ## TODO:
-- [ ] **[subscribe to our channel.](https://www.youtube.com/philolearn?sub_confirmation=1)**
+- [ ] [subscribe to our channel.](https://www.youtube.com/philolearn?sub_confirmation=1)
 
